@@ -14,3 +14,7 @@ The wiring diagrams will be made available but the parts list is below:
 - Arduino Due microcontroller
 - TI VP232 CAN transceiver (any transceiver should work)
 - OBD-II breakout
+
+If you produce network maps for your vehicle, please share them with me and we will create a database of these maps.
+
+If you have any suggestions or requests, please email me (see paper) and I'm happy to work with you!
